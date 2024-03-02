@@ -14,7 +14,7 @@
    
 2.  Desenvolva um programa que declare e inicialize três variáveis (`x`, `y` e `z`) com tipos `int`, `string` e `bool`, respectivamente. Utilize a função `fmt.Printf` para imprimir no console os valores das variáveis, formatando a saída de modo a incluir os nomes das variáveis e seus valores. Observe como a saída do programa destaca a ausência de valor das variáveis, evidenciando qual conceito?
 
-    ![code](https://![code](https://github.com/amandfernandes/Golang/assets/144744139/44adc71d-27ca-4ad2-a454-69cf65c5fb99)
+    ![code](https://github.com/amandfernandes/Golang/assets/144744139/44adc71d-27ca-4ad2-a454-69cf65c5fb99)
     
     [Código](2.go)
     
