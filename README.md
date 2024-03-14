@@ -5,8 +5,8 @@
 
 
 ![GitHub language count](https://img.shields.io/github/languages/count/amandfernandes/Golang?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/amandfernandes/Dev.Web?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/amandfernandes/Dev.Web?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/amandfernandes/Golang?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/amandfernandes/Golang?style=for-the-badge)
 ![Golang](https://img.shields.io/badge/Go-1AA7EC?style=for-the-badge&logo=go&logoColor=white)
 
 ## 📚 Sobre este repositório
