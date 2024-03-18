@@ -14,9 +14,9 @@
 This repository contains exercises that I do to study the Go programming language. Each topic is organized in a separate directory, with the following elements:
 
 ### Repository Structure
-1. **Statements**: Inside each directory, you will find a file called enunciado.md with a detailed description of the exercise. The statements are essential to understand the problem and the requirements.
+1. **Statements**: Inside each directory, you will find a file called `enunciado.md` with a detailed description of the exercise. The statements are essential to understand the problem and the requirements.
 
-2. **Code Solutions**: In addition, there is a directory called solucoes, where you can find my solutions for each exercise. Each solution is in a separate file with the .go extension. These files contain the source code of the solutions I developed.
+2. **Code Solutions**: In addition, there is a directory called `solucoes`, where you can find my solutions for each exercise. Each solution is in a separate file with the `.go` extension. These files contain the source code of the solutions I developed.
 
 ### How to Test the Solutions
 
